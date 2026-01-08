@@ -1,0 +1,1 @@
+void Echange(float* a, float* b);
